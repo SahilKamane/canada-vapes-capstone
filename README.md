@@ -75,14 +75,21 @@ The validated weighted order-level AOV was $102.59 against the $120 target. The 
 Ontario and Quebec received the highest priority scores in the regional dashboard, while Nova Scotia and British Columbia were classified as pilot/expand opportunities.
 
 ## Power BI Dashboard
+As the **Visualization & QA Lead**, I contributed to the Power BI dashboard development, visualization design, and quality-assurance process.
 
-The dashboard covers:
-- regional AOV versus the $120 target
-- historical and three-year AOV forecast
-- addressable next-order gap
-- regional priority scores
-- regional reach versus AOV-growth difficulty
-- active customer mix
+The dashboard was designed to help stakeholders evaluate regional AOV performance, identify priority markets, and understand the gap between historical performance, forecast performance, and the $120 AOV target.
+
+### Regional AOV Sales & Forecast
+This dashboard combines regional AOV performance, the $120 target, target gap, addressable next-order opportunity, active customers below target, and historical/forecast AOV.
+![Regional AOV Sales and Forecast](dashboard/regional-aov-sales-forecast.png)
+
+### Regional AOV-Growth Priority Score
+The priority score ranks regions based on the project's regional opportunity framework and categorizes markets into strategic tiers.
+![Regional AOV Growth Priority Score](dashboard/regional-priority-score.png)
+
+### Regional Reach vs AOV-Growth Difficulty
+This visualization compares active-customer reach with customer AOV and uses priority tiers to support regional decision-making.
+![Regional Reach Versus AOV Growth Difficulty](dashboard/regional-reach-vs-aov-difficulty.png)
 
 ## Data Quality & QA
 
